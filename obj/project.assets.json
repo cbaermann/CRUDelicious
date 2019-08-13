@@ -12155,11 +12155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/codybaermann/Documents/CodingDojo/c#/linq/CRUDelicious/CRUDelicious.csproj",
+      "projectUniqueName": "/Users/codybaermann/Documents/CodingDojo/c#/Entity/CRUDelicious/CRUDelicious.csproj",
       "projectName": "CRUDelicious",
-      "projectPath": "/Users/codybaermann/Documents/CodingDojo/c#/linq/CRUDelicious/CRUDelicious.csproj",
+      "projectPath": "/Users/codybaermann/Documents/CodingDojo/c#/Entity/CRUDelicious/CRUDelicious.csproj",
       "packagesPath": "/Users/codybaermann/.nuget/packages/",
-      "outputPath": "/Users/codybaermann/Documents/CodingDojo/c#/linq/CRUDelicious/obj/",
+      "outputPath": "/Users/codybaermann/Documents/CodingDojo/c#/Entity/CRUDelicious/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
