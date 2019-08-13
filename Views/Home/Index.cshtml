@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Index</title>
+    </head>
+
+
+    <body>
+        <a href="Add">Add a Dish</a>
+        <h1>Welcome to CRUDelicious</h1>
+        <h3>Check out some recent dishes!</h3>
+
+        <ul>
+            @{
+                foreach(Dish dish in Model)
+                {
+                    <li><a href="@dish.DishId">@dish.Name</a> by @dish.Chef</li>
+                }
+            }
+        </ul>
+        
+    </body>
+</html>

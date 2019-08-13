@@ -1,0 +1,45 @@
+{
+  "FilePath": "/Users/codybaermann/Documents/CodingDojo/c#/Entity/CRUDelicious/CRUDelicious.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "CRUDelicious",
+  "Documents": [
+    {
+      "FilePath": "Views/Home/Edit.cshtml",
+      "TargetPath": "Views/Home/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Dish.cshtml",
+      "TargetPath": "Views/Home/Dish.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Add.cshtml",
+      "TargetPath": "Views/Home/Add.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.1"
+}
